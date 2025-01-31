@@ -1,10 +1,11 @@
 # Attention Span
 
-Welcome to the **Attention Span** repository! This project is a simple yet engaging web-based animation designed to help users practice mindfulness and focus by guiding them through a breathing exercise and attention span boosting exercises.
+Welcome to the **Attention Span** repository! This project is a simple web-based animation designed to help users practice mindfulness and focus by guiding them through a breathing exercise and attention span boosting exercises.
 
 ## Roadmap
-1. Filtered calming Sine wave
-2. Mini-games (space hold timing rythm game etc.)
+1. Filtered calming sine wave
+2. Mini-games (space hold timing rhythm game etc.)
+3. Migrate to other stack
 
 ## How It Works
 
