@@ -42,11 +42,6 @@ Contributions are welcome! If you have any ideas for improving the animation, ad
 
 This project is open-source and available under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as you see fit.
 
-## Acknowledgments
-
-- Inspired by mindfulness and breathing exercises.
-- Built with pure HTML, CSS, and JavaScript for simplicity and accessibility.
-
 ---
 
 Enjoy the **Attention Span** experience, and take a moment to breathe and focus! 🌬️
