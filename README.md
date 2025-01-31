@@ -1,5 +1,4 @@
 # Attention Span
-[![GitHub Pages](https://img.shields.io/badge/Live%20Demo-View%20Site-brightgreen)](https://your-username.github.io/attention-span)
 Welcome to the **Attention Span** repository! This project is a simple web-based animation designed to help users practice mindfulness and focus by guiding them through a breathing exercise and attention span boosting exercises.
 
 ## Roadmap
